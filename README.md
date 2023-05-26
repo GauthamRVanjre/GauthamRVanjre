@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @GauthamRVanjre
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React.js 
+- 👀 I’m interested in Web Development, mobile Development 
+- 🌱 I’m currently learning Next.js,React Native
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me 
      My LinkedIn profile: https://www.linkedin.com/in/gautham-r-vanjre-72b858228
