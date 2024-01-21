@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gautham-vanjre.vercel.app/](https://gautham-vanjre.vercel.app/)
 
-- 📝 I regularly write articles on [Hashnode](Hashnode)
+- 📝 I regularly write articles on [Hashnode]((https://gautham10.hashnode.dev/))
 
 - 💬 Ask me about **React, Next.js, React Native, Prisma**
 
