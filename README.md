@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/GauthamRVanjre)
 
-- 📝 I regularly write articles on [Hashnode](https://gautham10.hashnode.dev/)
+- 📝 I weekly write articles on [Hashnode](https://gautham10.hashnode.dev/)
 
 - 💬 Ask me about **React, Next.js, React Native, Prisma**
 
