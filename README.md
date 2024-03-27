@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vanjregautham1" target="blank"><img src="https://img.shields.io/twitter/follow/vanjregautham1?logo=twitter&style=for-the-badge" alt="vanjregautham1" /></a> </p>
 
-- 🔭 I’m currently working on **Expensify**
+- 🔭 I’m currently working on **AI Blog Summarizer**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/GauthamRVanjre)
 
