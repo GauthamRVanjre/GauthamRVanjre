@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gautham R Vanjre</h1>
-<h3 align="center">A passionate Fullstack developer from India with more than one year of hands-on experience in the dynamic world of software development. Throughout my journey, I've successfully delivered multiple industrial projects, showcasing my dedication to creating robust and scalable solutions.</h3>
+<h3 align="center">A passionate Fullstack developer from India with more than 2 years of experience in the dynamic world of software development. Throughout my journey, I've successfully delivered multiple industrial projects, showcasing my dedication to creating robust and scalable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauthamrvanjre&label=Profile%20views&color=0e75b6&style=flat" alt="gauthamrvanjre" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauthamrvanjre" alt="gauthamrvanjre" /></a> </p>
 
-- 🔭 I’m currently working on **Projects on Agentic Workflows**
+- 🔭 I’m currently working on **Decentralized Fiverr**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Generative AI and Ethereum Development**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/GauthamRVanjre)
 
-- 📝 I write articles on [Hashnode](https://gautham10.hashnode.dev/)
+- 📝 I sometimes write articles on [Hashnode](https://gautham10.hashnode.dev/)
 
-- 💬 Ask me about **React, Next.js, React Native, Prisma, AI**
+- 💬 Ask me about **React, Next.js, React Native, Prisma, AI, Solidity**
 
 - 📫 How to reach me **vanjregautham@gmail.com**
 
